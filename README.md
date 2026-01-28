@@ -27,3 +27,7 @@ The main challenge was designing accurate regex patterns to correctly validate n
 - Add uppercase and lowercase character validation
 - Allow user input instead of a hardcoded password list
 - Export validation results to a file
+
+## Output Screensort
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/8c9cf603-cd02-45e8-84b4-08adf6b64318" />
